@@ -35,11 +35,11 @@
 <p>Moving on from gift giving, the app will have the ability to evolve to suit other applications. Its design is simple enough:</p>
 <p>Trigger Event + Online Resources = Outcome</p>
 <p>The Smarter Gifter concept could be applied to events such as large corporate meetings or for research purposes. As a date or event is achieved, and the app could automatically send through relevant links and information from current newsworthy articles. </p>
-<a href = "indexpage.html"> Index Page </a>
-<a href = "alittleaboutme.html"> A Little About Me </a>
-<a href = "myrelarionshipwithit.html"> My Relationship with IT </a>
-<a href = "idealitjob.html"> Ideal IT Job </a>
-<a href = "personalitytestresults.html"> Personality Test Results </a>
-<a href = "referencelist.html"> Reference List </a>
+<p><a href = "indexpage.html"> Index Page </a></p>
+<p><a href = "alittleaboutme.html"> A Little About Me </a></p>
+<p><a href = "myrelarionshipwithit.html"> My Relationship with IT </a></p>
+<p><a href = "idealitjob.html"> Ideal IT Job </a></p>
+<p><a href = "personalitytestresults.html"> Personality Test Results </a></p>
+<p><a href = "referencelist.html"> Reference List </a></p>
 </body>
 </html>

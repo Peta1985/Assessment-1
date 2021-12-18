@@ -10,11 +10,11 @@
 <p>I researched opportunities for learning but many courses focused solely on programming and back-end development. I attended a few workshops run by She Codes and while informative, were not what I was looking for. My local TAFE ran several basic courses but I needed something that was going to be flexible and work around my business hours and parenting obligations.</p>
 <p>I contacted Open Universities Australia and discussed my issues with the representative. We agreed that a Bachelor of IT through RMIT would be best suited to my requirements. These initial fundamental courses will give me a wonderful foundation on which to build, and as the course continues, so will my knowledge and skills.</p>
 <p>By the time I have successfully completed the Bachelor of IT I hope to have the essential skills, knowledge and attitude required to be an effective contributor to Defence data discussions.</p>
-<a href = "indexpage.html"> Index Page </a>
-<a href = "alittleaboutme.html"> A Little About Me </a>
-<a href = "idealitjob.html"> Ideal IT Job </a>
-<a href = "personalitytestresults.html"> Personality Test Results </a>
-<a href = "projectidea.html"> Smarter Gifter Project Idea</a>
-<a href = "referencelist.html"> Reference List </a>
+<p><a href = "indexpage.html"> Index Page </a></p>
+<p><a href = "alittleaboutme.html"> A Little About Me </a></p>
+<p><a href = "idealitjob.html"> Ideal IT Job </a></p>
+<p<p><a href = "personalitytestresults.html"> Personality Test Results </a></p>
+<p><a href = "projectidea.html"> Smarter Gifter Project Idea</a></p>
+<p><a href = "referencelist.html"> Reference List </a></p>
 </body>
 </html>

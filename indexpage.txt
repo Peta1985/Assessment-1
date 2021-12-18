@@ -7,11 +7,11 @@
 <p> Student Name: Peta-Maree Bubear</p>
 <p> Student ID Number: s3930671</p>
 <p> Email: s3930671@student.rmit.edu.au</p>
-<a href = "alittleaboutme.html"> A Little About Me </a>
-<a href = "myrelarionshipwithit.html"> My Relationship with IT </a>
-<a href = "idealitjob.html"> Ideal IT Job </a>
-<a href = "personalitytestresults.html"> Personality Test Results </a>
-<a href = "projectidea.html"> Project Idea</a>
-<a href = "referencelist.html"> Reference List </a>
+<p><a href = "alittleaboutme.html"> A Little About Me </a></p>
+<p><a href = "myrelarionshipwithit.html"> My Relationship with IT </a></p>
+<p><a href = "idealitjob.html"> Ideal IT Job </a></p>
+<p><a href = "personalitytestresults.html"> Personality Test Results </a></p>
+<p><a href = "projectidea.html"> Project Idea</a></p>
+<p><a href = "referencelist.html"> Reference List </a></p>
 </body>
 </html>

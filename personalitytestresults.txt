@@ -16,11 +16,11 @@
 <p>My Result: I have a Dominance (D) behavioural style meaning that I thrive on accomplishing results (123 Test n.d.). People who have this behavioural style are confident and often blunt, outspoken, and demanding. This is something that I have been made aware of in my workplace (DiSC Profile n.d.).</p>
 <p>As a D style, I often take charge of the situation, speak up about conflict as it arises, and am very competitive. I am self-motivated and independent. I see my team members as one team and will not single out any one member. If the team fails, I often take it personally and feel responsible for the fault of the group.</p>
 <p>At times, I often lack patience and sensitivity. It is something that I am keenly aware of and always practice resilience in this field. I do this by asking members to contribute thoughts and opinions and listen carefully without interruption. At times I can appear bossy and overbearing, and I acknowledge that I do need to work on relinquishing leadership at times. </p>
-<a href = "indexpage.html"> Index Page </a>
-<a href = "alittleaboutme.html"> A Little About Me </a>
-<a href = "myrelarionshipwithit.html"> My Relationship with IT </a>
-<a href = "idealitjob.html"> Ideal IT Job </a>
-<a href = "projectidea.html"> Project Idea</a>
-<a href = "referencelist.html"> Reference List </a>
+<p><a href = "indexpage.html"> Index Page </a></p>
+<p><a href = "alittleaboutme.html"> A Little About Me </a></p>
+<p><a href = "myrelarionshipwithit.html"> My Relationship with IT </a></p>
+<p><a href = "idealitjob.html"> Ideal IT Job </a></p>
+<p><a href = "projectidea.html"> Project Idea</a></p>
+<p><a href = "referencelist.html"> Reference List </a></p>
 </body>
 </html>

@@ -32,11 +32,11 @@
 <p>o	Experience with SQL data extraction and processing </p>
 <p>o	Experience with cloud computing </p>
 <p>o	Experience with continuous integration continuous delivery is preferred. </p>
-<a href = "indexpage.html"> Index Page </a>
-<a href = "alittleaboutme.html"> A Little About Me </a>
-<a href = "myrelarionshipwithit.html"> My Relationship with IT </a>
-<a href = "personalitytestresults.html"> Personality Test Results </a>
-<a href = "projectidea.html"> Project Idea</a>
-<a href = "referencelist.html"> Reference List </a>
+<p><a href = "indexpage.html"> Index Page </a></p>
+<p><a href = "alittleaboutme.html"> A Little About Me </a></p>
+<p><a href = "myrelarionshipwithit.html"> My Relationship with IT </a></p>
+<p><a href = "personalitytestresults.html"> Personality Test Results </a></p>
+<p><a href = "projectidea.html"> Project Idea</a></p>
+<p><a href = "referencelist.html"> Reference List </a></p>
 </body>
 </html>
