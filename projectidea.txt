@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body {background-color: Gainsboro;}
+h2 {font-size: 40px;}
+h3 {font-size: 25px;}
+h2 {font-variant: small-caps;}
+h3 {font-variant: small-caps;}
+h2 {border-style: solid; border-color: red; border-top-style:none; border-right-style:none; border-bottom-style:solid; border-left-style: none;}
+h3 {border-style: solid; border-color: red; border-top-style:solid; border-right-style:none; border-bottom-style:none; border-left-style: none;}
+img {border-style: solid; border-color: black; border-top-style:solid; border-right-style:solid; border-bottom-style:solid; border-left-style: solid;}
+p {font-size: 25px;}
+p2 {font-size: 20px;}
+</style>
+<center>
+<h2>Project Idea : Smarter Gifter </h2>
+</center>
+<p>As the year draws to a close, I am hearing the usual Christmas script being successfully completed by everyone I meet. It is like a chorus the echoed in every house, shop and workplace across the country:</p>
+<p>“What do you hope Santa will bring you for Christmas?”</p>
+<p>“I’m not sure”, “I haven’t thought about it” and “I don’t need anything” are all socially acceptable answer. </p>
+<p>This patter is as old as Santa Clause himself. </p>
+<p>‘38% of US consumers say that guessing what people want is their greatest annoyance when shopping for presents’ (Emarsys 2021, para. 1). This is only surprising as I would have guessed the figure to be more. Such is the issue with the gift giving roulette, that Australian retailer Myer created an entire 2021 advertisement campaign surrounding it. Titled Unriddle Christmas, Myer (2021) explores the dreaded anxiety around ensuring you give the perfect gift to the ones you love.</p>
+<p>But what if I told you that these complexities could be solved through the automation of inspiration?</p>
+<p>I would like to present my project idea. The Smarter Gifter mobile app will revolutionise the gift buying process and ensure that your affections are always on-point. In essence, the Smarter Gifter app will remind you, the user, of any programmed upcoming special occasions such as a birthdays or anniversaries. The application is inbuild with a profile of each of your loved ones and will make recommendations and suggestions based on their interests, age, hobbies and location. </p>
+<p>Using the application will be user friendly and intuitive. Once you have downloaded the app to your preferred smart device, you can easily create a profile for all of your nearest and dearest. The creation of a profile is easy, and once created, will only require minimal maintenance. The profile will be created using information such as:</p>
+<p>•	Name</p>
+<p>•	Photo</p>
+<p>•	Date of Birth</p>
+<p>•	Town/Suburb</p>
+<p>•	Interests</p>
+<p>•	Turn Notifications on/off for special days (select from a pre-determined list of special occasions, or create your own!). Preloaded days include:</p>
+<p>o	Birthday Day</p>
+<p>o	Father’s Day</p>
+<p>o	Mother’s Day</p>
+<p>o	Variety of culturally appropriate days</p>
+<p>o	Variety of religious days </p>
+<p>o	Anniversary</p>
+<p>The easy-to-use set-up will make creating profiles a breeze! </p>
+<center>
+<img src="concept.jpg" height="300">
+</center>
+<p>As you see products or think of gift ideas that would be suitable for the receiver, you simply update their profile. The application can save links to the items that you know they will love directly to their profile. </p>
+<p>Still unsure what to get them? No worries! The application will consider their interests, age and location and make recommendations and suggestions for you. This will either give the opportunity to shop online or provide you with the inspiration and get those creative juices flowing. </p>
+<p>As a programmed date draws near, a birthday for example, you will receive an automated notification sent directly to your email or mobile, reminding you of the approaching celebration. </p>
+<p>As this will be a Smartphone Application, the user will not require any new or specialised hardware. They will simply be able to download the app from their chosen app store and start creating profiles for their friends and family immediately!</p>
+<p>I am quite the novice at information technology, and this project will be a welcomed place to start learning how to create an app from the concept phase. </p>
+<p>After some research and consideration, I consider that C++ would be the best programming language as it is the primary language used within the mobile industry (EDUCBA 2020). This language, best suited to Android OS, iOS, and Windows, has a high-performance server and is supported by Windows and Mac OS. Many programmers seem well versed in C++, and with some instruction and practice, I anticipate it would be easy to navigate. </p>
+<p>Once I have received relevant instruction and experience in learning C++, I would be looking at a relevant Integrated Development Environment (IDE)in which to write the code. I would consider Xamarin as it is appears to be the most popular integrated environment developed for iOS, Android, and Windows.</p>
+<p>As the app gains traction with users, I could look to purchase personal data through Google. Smarter Gifter could link with members Google accounts and refine gift suggestions based on their algorithms and personalised Google advertisements.</p>
+<p>The project will be successful when people start receiving solicited reminders filled with associated gift ideas and inspirations for their loved ones. This will result in a more excited and highly anticipated Christmas season, and the assurance that the giver is going to provide something meaningful and considerate.
+<p>Moving on from gift giving, the app will have the ability to evolve to suit other applications. Its design is simple enough:</p>
+<p>Trigger Event + Online Resources = Outcome</p>
+<p>The Smarter Gifter concept could be applied to events such as large corporate meetings or for research purposes. As a date or event is achieved, and the app could automatically send through relevant links and information from current newsworthy articles. </p>
+<h3> Find out more about me: </h3>
+<p2><a href = "index.html"> Index Page </a></p>
+<p2><a href = "alittleaboutme.html"> A Little About Me </a></p>
+<p2><a href = "myrelarionshipwithit.html"> My Relationship with IT </a></p>
+<p2><a href = "idealitjob.html"> Ideal IT Job </a></p>
+<p2><a href = "personalitytestresults.html"> Personality Test Results </a></p>
+<p2><a href = "referencelist.html"> Reference List </a></p>
+</body>
+</html>
